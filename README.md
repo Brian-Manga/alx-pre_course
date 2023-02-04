@@ -1,13 +1,13 @@
 ## Working with Git commands to create and delete directories and files
 
-#create directory and file
+# create directory and file
 use mkdir and touch respectively
 
-#delete 
+# delete 
 rm -r
 
-#check contents of file
+# check contents of file
 cat
 
-#see contents of dit=rectory 
+# see contents of dit=rectory 
 ls
